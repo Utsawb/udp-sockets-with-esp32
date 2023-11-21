@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "esp_wifi.h": "c"
+  },
+  "idf.adapterTargetName": "esp32"
+}
